@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+	background-color:lightcoral;
+	border:2px solid black;
+}
+th,td{
+	border:2px solid black;
+}
